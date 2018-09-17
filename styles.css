@@ -1,0 +1,24 @@
+.internship-program {
+    font-family: Georgia;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.company {
+    text-transform: uppercase;
+    color: maroon;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+body {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+p {
+    font-family: Helvetica;
+}
